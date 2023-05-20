@@ -90,42 +90,6 @@ main {
 	line-height: 1.8;
 }
 
-.experience ul, .education ul {
-	list-style: none;
-	padding: 0;
-}
-
-.experience li, .education li {
-	margin-bottom: 20px;
-}
-
-.experience h3, .education h3 {
-	margin: 0;
-	font-size: 2rem;
-}
-
-.experience p, .education p {
-	margin: 0;
-	font-size: 1.6rem;
-	line-height: 1.8;
-	color: #666;
-}
-
-.skill ul {
-	list-style: none;
-	padding: 0;
-	display: flex;
-	flex-wrap: wrap;
-}
-
-.skill li {
-	margin-right: 20px;
-	margin-bottom: 20px;
-	font-size: 1.8rem;
-	padding: 10px 20px;
-	background-color: #f5f5f5;
-	border-radius: 20px;
-}
 
 /* Footer */
 footer {
